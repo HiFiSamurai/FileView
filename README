@@ -1,0 +1,4 @@
+C executable to control visibility of hidden files in Mac OSX
+torch 1 set visibility TRUE
+All other arguments sets visibility FALSE
+Restarts finder on completion
